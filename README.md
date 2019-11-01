@@ -12,4 +12,4 @@ A tool to easily run custom lv0 payloads on Playstation Vita/TV consoles
 - More info coming soon!
 
 ## Credits
-- Team Molecule for HenKaku, TaiHen, Enso, update_sm 0x5002 exploit and help on discord.
+- Team Molecule for HenKaku, TaiHen, Enso, update_sm 0x50002 exploit and help on discord.
